@@ -1,4 +1,4 @@
-# Rime-by-yugan
+# Rime
 
 鼠须管输入法
 
@@ -9,4 +9,3 @@
 ## Changlog
 
 20220309 15:39 参考[lua字符串](https://www.w3cschool.cn/lua/lua-strings.html)完善[rime.lua](rime.lua)快捷输入方案。上传输入法到github。
-# Rime
