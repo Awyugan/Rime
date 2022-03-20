@@ -50,8 +50,8 @@ patch:
         ascii_mode: true
     com.nektony.App-Cleaner-SII:     # App Cleaner & Uninstaller
         ascii_mode: true
-    com.apple.finder:
-      ascii_mode: true
+    #com.apple.finder:
+    #  ascii_mode: true
     com.sublimetext.3:
       ascii_mode: true
     com.apple.calculator:
