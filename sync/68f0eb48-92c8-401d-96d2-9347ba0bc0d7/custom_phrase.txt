@@ -30,7 +30,6 @@ macOS High Sierra	macos	2
 macOS Mojave	macos	3
 macOS	macos	4
 macOS Sierra	macos	1
-行为分析	ba	2
 开智    omc	1
 Bilibili 	bb	9
 哔哩哔哩	bb	8
@@ -56,7 +55,7 @@ Swift	swift
 MacBook Pro	mbp
 MacBook	macbook
 Apple	apple
-U盘	upj
+U盘	up
 GitHub	github
 iMac	imac
 iPad	ipad
@@ -74,7 +73,6 @@ Youku	youku
 YouTube	youtube
 又双叒叕	yzyz
 iCloud	icloud
-Quantumult	quan
 Dropbox	dropbox
 T恤	txu
 Mac	mac

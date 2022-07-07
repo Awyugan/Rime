@@ -55,7 +55,7 @@ Swift	swift
 MacBook Pro	mbp
 MacBook	macbook
 Apple	apple
-U盘	upj
+U盘	up
 GitHub	github
 iMac	imac
 iPad	ipad
@@ -73,7 +73,6 @@ Youku	youku
 YouTube	youtube
 又双叒叕	yzyz
 iCloud	icloud
-Quantumult	quan
 Dropbox	dropbox
 T恤	txu
 Mac	mac
