@@ -13,7 +13,7 @@ patch:
       text_color: '0xFF0055'
       hilited_text_color: '0xFFEBEC'
       hilited_back_color: '0xB38395'
-      hilited_candidate_text_color: '0xFFA3F0'
+      hilited_candidate_text_color: '0xFFA3f0'
       hilited_candidate_back_color: '0x542E59'
       hilited_candidate_label_color: '0xED42ED'
       hilited_comment_text_color: '0x3636E3'
