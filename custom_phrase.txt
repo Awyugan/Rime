@@ -79,4 +79,3 @@ Mac	mac
 Wi-Fi	wifi
 Apple ID	appleid
 QQ邮箱	qqyzxl
-gpt	GPT
