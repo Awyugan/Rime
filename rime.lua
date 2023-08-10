@@ -15,8 +15,8 @@ function time_translator(input, seg)
             yield(Candidate("date", seg.start, seg._end, os.date("[[%Y%m%d ]] %H:%M:%S"), ""))
             yield(Candidate("date", seg.start, seg._end, os.date("- %Y%m%d %H:%M:%S"), ""))
             yield(Candidate("date", seg.start, seg._end, os.date("- [[%Y%m%d]] %H:%M:%S"), ""))
-            yield(Candidate("date", seg.start, seg._end, os.date("## Changlog\r%Y%m%d %H:%M:%S"), ""))        
-            yield(Candidate("date", seg.start, seg._end, os.date("## Changlog\r[[%Y%m%d]] %H:%M:%S"), ""))        
+            yield(Candidate("date", seg.start, seg._end, os.date("## Changelog\n%Y%m%d %H:%M:%S"), ""))        
+            yield(Candidate("date", seg.start, seg._end, os.date("## Changelog\n[[%Y%m%d]] %H:%M:%S"), ""))        
         end
 
         ---if (input == "riqi") then

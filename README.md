@@ -6,6 +6,12 @@
 
 定制了个性化皮肤、[rime.lua快捷输入]](rime.lua)、[心理学名词词库](psychology.dict.yaml)、[custom_phrase快捷短语](custom_phrase.txt)。
 
-## Changlog
+## Changelog
+
+2023_0810_1405_更新计算机名词库
 
 20220309 15:39 参考[lua字符串](https://www.w3cschool.cn/lua/lua-strings.html)完善[rime.lua](rime.lua)快捷输入方案。上传输入法到github。
+
+20220802 23:04 面对`、`符号和全角冲突，切换后忘记，导致无法使用的情况。取消全角切换快捷键，使用半角多选，减少全角使用频率，变为中英文和半角结合。
+
+修改 # 。
