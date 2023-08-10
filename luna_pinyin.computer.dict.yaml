@@ -4,7 +4,7 @@
 
 ---
 name: luna_pinyin.jisuanjicihuidaquan
-version: "2023.08.10"
+version: "2010.01.15"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -776,7 +776,6 @@ use_preset_vocabulary: false
 常数合并	chang shu he bing
 常用词	chang yong ci
 长整数	chang zheng shu
-长文本	chang wen ben
 常驻操作系统	chang zhu cao zuo xi tong
 常驻控制程序	chang zhu kong zhi cheng xu
 超标量	chao biao liang
@@ -1336,7 +1335,6 @@ use_preset_vocabulary: false
 大于搜索	da yu sou suo
 大语种	da yu zhong
 大蜘蛛	da zhi zhu
-大语言模型	da yu yan mo xing
 待编码数据	dai bian ma shu ju
 带标号复用	dai biao hao fu yong
 带标号信道	dai biao hao xin dao
@@ -5499,7 +5497,6 @@ use_preset_vocabulary: false
 清除请求	qing chu qing qiu
 清除数组	qing chu shu zu
 情感符号	qing gan fu hao
-情感分析	qing gan fen xi
 情感建模	qing gan jian mo
 清洁盘	qing jie pan
 清洁软盘	qing jie ruan pan
@@ -6154,7 +6151,6 @@ use_preset_vocabulary: false
 上推排序	shang tui pai xu
 上下位关系	shang xia wei guan xi
 上下文	shang xia wen
-上下文学习	shang xia wen xue xi
 上下文分析	shang xia wen fen xi
 上下文切换	shang xia wen qie huan
 上行链路	shang xing lian lu
@@ -10188,7 +10184,6 @@ use_preset_vocabulary: false
 子字节集替换	zi zi jie ji ti huan
 自组织系统	zi zu zhi xi tong
 自组织映射	zi zu zhi ying she
-自监督学习	zi jian du xue xi
 子作业	zi zuo ye
 综合编辑修改	zong he bian ji xiu gai
 综合操作系统	zong he cao zuo xi tong
