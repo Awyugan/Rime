@@ -6,7 +6,16 @@
 
 定制了个性化皮肤、[rime.lua快捷输入]](rime.lua)、[心理学名词词库](psychology.dict.yaml)、[custom_phrase快捷短语](custom_phrase.txt)。
 
+使用工具[搜狗词库scal转txt](https://www.toolnb.com/tools/scelto.html)
+
+##　词库工具
+
+[README-Rime vocabularymanagement](/README-Rime vocabularymanagement.md)
+在目录中找到 Rime vocabulary management0.4.py即可使用
+
 ## Changelog
+
+20230811 12:31:38 同步一个字库排序工具
 
 2023_0810_1405_更新计算机名词库
 

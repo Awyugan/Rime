@@ -76,6 +76,8 @@ iCloud	icloud
 Dropbox	dropbox
 T恤	txu
 Mac	mac
-Wi-Fi	wifi
+WiFi	wifi
 Apple ID	appleid
-QQ邮箱	qqyzxl
+QQ邮箱	qqyx
+Python python
+Readme readme

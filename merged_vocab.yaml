@@ -1,0 +1,171 @@
+# Rime dictionary
+# encoding: utf-8
+# source: https://pinyin.sogou.com/dict/detail/index/15117
+
+---
+name: luna_pinyin.deeplearn
+version: "2023.08.10"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+BERT	bert
+GPT	gpt
+International Conference for Machine Learning	ICML
+Large Language Model	llm
+LLM	llm
+LLMs	llm
+Transformer	transformer
+一致性	yi zhi xing
+上下文学习	shang xia wen xue xi
+上采样	shang cai yang
+下采样	xia cai yang
+二分法	er fen fa
+二次学习	er ci xue xi
+代理 / 智能体	dai li      zhi neng ti
+仿射层	fang she ceng
+众包	zhong bao
+优化器	you hua qi
+伪标记	wei biao ji
+假设	jia she
+偏置	pian zhi
+偏置 / 偏差	pian zhi      pian cha
+元学习器	yuan xue xi qi
+先验	xian yan
+共适应	gong shi ying
+再缩放	zai suo fang
+准确率	zhun que lv
+几率	ji lv
+凸性	tu xing
+分布	fen bu
+分批标准化	fen pi biao zhun hua
+分类交叉熵损失	fen lei jiao cha shang sun shi
+分类器	fen lei qi
+判别器	pan bie qi
+判定树	pan ding shu
+剪枝	jian zhi
+动量	dong liang
+卷积神经网络	juan ji shen jing wang luo
+参数	can shu
+双向循环神经网络	shuang xiang xun huan shen jing wang luo
+反向传播	fan xiang chuan bo
+召回率	zhao hui lv
+可理解性	ke li jie xing
+可解释性	ke jie shi xing
+可重复采样	ke zhong fu cai yang
+同义词集	tong yi ci ji
+同现	tong xian
+同质	tong zhi
+后剪枝	hou jian zhi
+回归	hui gui
+因子分解	yin zi fen jie
+国际学习理论会议	guo ji xue xi li lun hui yi
+国际机器学习会议	guo ji ji qi xue xi hui yi
+国际神经信息处理系统会议	guo ji shen jing xin xi chu li xi tong hui yi
+在策略	zai ce lve
+多任务学习	duo ren wu xue xi
+大语言模型	da yu yan mo xing
+子空间	zi kong jian
+学习器	xue xi qi
+宏查全率	hong cha quan lv
+宏查准率	hong cha zhun lv
+对数似然	dui shu si ran
+少样本	shao yang ben
+嵌入	qian ru
+差异性度量	cha yi xing du liang
+平均池化	ping jun chi hua
+平滑	ping hua
+张量	zhang liang
+归一化	gui yi hua
+归纳	gui na
+微查全率	wei cha quan lv
+微查准率	wei cha zhun lv
+微调	wei tiao
+微调	wei diao
+情境学习	qing jign xue xi
+情感分析	qing gan fen xi
+感知机	gan zhi ji
+成对型	cheng dui xing
+成本敏感	cheng ben min gan
+损失函数	sun shi han shu
+收敛	shou lian
+散度	san du
+无导师学习	wu dao shi xue xi
+智能体	zhi neng ti
+最大池化	zui da chi hua
+有导师学习	you dao shi xue xi
+有放回采样	you fang hui cai yang
+期望最大化	qi wang zui da hua
+权重	quan zhong
+极大似然法	ji da si ran fa
+查全率	cha quan lv
+查准率	cha zhun lv
+标记化	biao ji hua
+树库	shu ku
+校准	xiao zhun
+梯度下降	ti du xia jiang
+梯度爆炸问题	ti du bao zha wen ti
+欠拟合	qian ni he
+欠配	qian pei
+欠采样	qian cai yang
+正则化	zheng ze hua
+池化	chi hua
+泛化	fan hua
+注意力机制	zhu yi li ji zhi
+注意机制	zhu yi ji zhi
+深度信念网络	shen du xin nian wang luo
+深度学习	shen du xue xi
+演绎	yan yi
+激活函数	ji huo han shu
+特化	te hua
+生成器	sheng cheng qi
+留一法	liu yi fa
+留出法	liu chu fa
+相合性	xiang he xing
+真实	zhen shi
+真相	zhen xiang
+神经网络	shen jing wang luo
+离策略	li ce lve
+稀疏性	xi shu xing
+稳健性	wen jian xing
+稳健性/鲁棒性	wen jian xing  lu bang xing
+端到端	duan dao duan
+端正图	duan zheng tu
+符号主义	fu hao zhu yi
+算法	suan fa
+簇/类/集群	cu  lei  ji qun
+类别不平衡	lei bie bu ping heng
+级联相关	ji lian xiang guan
+置信度	zhi xin du
+聚类	ju lei
+自动驾驶	zi dong jia shi
+自助法	zi zhu fa
+自监督学习	zi jian du xue xi
+自编码器	zi bian ma qi
+节点	jie dian
+范数	fan shu
+训练例	xun lian li
+词嵌入	ci qian ru
+试错法	shi cuo fa
+语料库	yu liao ku
+语言模型	yu yan mo xing
+超参数	chao can shu
+边际化	bian ji hua
+迁移学习	qian yi xue xi
+过拟合	guo ni he
+过配	guo pei
+过采样	guo cai yang
+近似	jin si
+连结主义	lian jie zhu yi
+递归神经网络	di gui shen jing wang luo
+采样	cai yang
+重赋权法	zhong fu quan fa
+重采样法	zhong cai yang fa
+长文本	chang wen ben
+阈值	yu zhi
+阈值移动	yu zhi yi dong
+零样本	ling yang ben
+零样本学习	ling yang ben xue xi
+震荡	zhen dang
+预剪枝	yu jian zhi
+频率主义学派	pin lv zhu yi xue pai
