@@ -10,7 +10,7 @@
 
 ##　词库工具
 
-[README-Rime vocabularymanagement](/README-Rime vocabularymanagement.md)
+阅读基础说明：[README-Rime vocabularymanagement](README-Rime vocabularymanagement.md)
 在目录中找到 Rime vocabulary management0.4.py即可使用
 
 ## Changelog
