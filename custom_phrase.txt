@@ -79,5 +79,9 @@ Mac	mac
 WiFi	wifi
 Apple ID	appleid
 QQ邮箱	qqyx
-Python python
-Readme readme
+Python	python
+Readme	readme
+Readme	rm
+README	rm
+awesome	awe
+awesome	awesome
